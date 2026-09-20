@@ -1,0 +1,6 @@
+Git commands I am learning:
+git staus
+git add
+git commit
+git push
+git pull
